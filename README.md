@@ -2,7 +2,7 @@
 Role: Lead Developer | Technologies: JavaScript, PHP, SQL, HTML
 
 • Followed the complete software development lifecycle — from requirement analysis and design to coding,
-  testing, documentation, and deployment — ensuring a reliable, secure, and maintainable web application.
+  testing, documentation, and deployment — ensuring a reliable, secure, and maintainable web application.\n
 • Designed, developed, and tested a multi-user job portal system with secure authentication and session
   management, improving admin dashboard performance by 30% through optimized SQL queries.
 • Managed and optimized database schemas, queries, and user permissions using PHP scripts, MySQL Server,
