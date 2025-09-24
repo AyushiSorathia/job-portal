@@ -1,11 +1,22 @@
 1.	Job Portal System								                                      		2024
 Role: Lead Developer | Technologies: JavaScript, PHP, SQL, HTML
 
-•	Designed, developed, and tested a multi-user job portal system, implementing secure authentication and session management, resulting in 30% improved admin dashboard performance through optimized SQL queries.
-•	Integrated JavaScript-based chatbot to guide users through job search, reducing manual queries by 40%.
-•	Diagnosed and debugged complex backend issues in PHP, enhancing system stability and user experience.
-•	Produced comprehensive technical documentation including ER diagrams, API workflows, and validation logic, supporting software lifecycle management.
-•	Collaborated with academic stakeholders (Professor) and technical team members in agile sprints and reviews under tight deadlines— simulating cross-functional teamwork.
-•	Delivered a final presentation showcasing system capabilities and operational benefits to instructors and student reviewers.
-•	Delivered the project while managing a full academic workload, proving time management and perseverance. 
+• Followed the complete software development lifecycle — from requirement analysis and design to coding,
+  testing, documentation, and deployment — ensuring a reliable, secure, and maintainable web application.
+• Designed, developed, and tested a multi-user job portal system with secure authentication and session
+  management, improving admin dashboard performance by 30% through optimized SQL queries.
+• Managed and optimized database schemas, queries, and user permissions using PHP scripts, MySQL Server,
+  and phpMyAdmin, enabling efficient data retrieval and secure access control.
+• Strengthened database security by implementing role-based authentication and input validation for job
+  seekers, employers, and administrators, reducing unauthorized access attempts.
+• Implemented real-time CRUD operations for job postings and applications, increasing administrative efficiency
+  by 30% and improving overall system responsiveness.
+• Added a requested feature to the Job Portal system within 24 hours of faculty feedback, completing backend
+  development ahead of the 3-month project deadline while maintaining system security and performance.
+• Produced detailed technical documentation (ER diagrams, API workflows, validation logic) to support software
+  lifecycle management and future maintenance.
+• Collaborated with cross-functional teams and academic stakeholders in an agile environment, incorporating
+  feedback to improve code quality and deliver under tight deadlines.
+• Continuously learned new tools and best practices to improve project outcomes and maintain a reliable,
+  secure, and maintainable system.
 
