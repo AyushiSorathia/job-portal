@@ -1,5 +1,5 @@
-1.	Job Portal System								                                      		2024
-Role: Lead Developer | Technologies: JavaScript, PHP, SQL, HTML
+1.	Job Portal System
+| Role: Lead Developer | Technologies: JavaScript, PHP, SQL, HTML |	2024
 
 • Followed the complete software development lifecycle — from requirement analysis and design to coding,
   testing, documentation, and deployment — ensuring a reliable, secure, and maintainable web application.
